@@ -1,0 +1,5 @@
+flask
+redis
+sqlite-database
+flask_cors
+flask_session
